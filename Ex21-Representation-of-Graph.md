@@ -1,5 +1,5 @@
 # Ex 5A Representation of Graph
-## DATE:21/04/2025
+## DATE:
 ## AIM:
 To write a C program to display the adjacency matrix of the given graph by supplying the edges and the number of vertices.
 
@@ -17,8 +17,8 @@ To write a C program to display the adjacency matrix of the given graph by suppl
 ```
 /*
 Program to display the adjacency matrix of the given graph
-Developed by: Jayamani R
-RegisterNumber: 212222100014
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 
 #include <stdio.h>
