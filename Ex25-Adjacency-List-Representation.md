@@ -1,5 +1,5 @@
 # Ex 5E) Adjacency List Representation
-## DATE:03/05/2025
+## DATE:
 ## AIM:
 To write a C program to represent the given graph using the adjacency list.
 
@@ -14,8 +14,8 @@ To write a C program to represent the given graph using the adjacency list.
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 
 int main(void)
