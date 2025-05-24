@@ -1,5 +1,5 @@
 # Ex 5B Breadth First Graph
-## DATE:21/04/2025
+## DATE:
 ## AIM:
 To write a printQueue C function of the given graph that is to be traversed in the breadth first manner.
 
@@ -18,8 +18,8 @@ To write a printQueue C function of the given graph that is to be traversed in t
 ```
 /*
 Program to traverse graph using BFS
-Developed by: Jayamani R
-RegisterNumber: 212222100014
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 
 #include <stdio.h>
