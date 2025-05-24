@@ -1,5 +1,5 @@
 # 5D) Topological Sort
-## DATE:28/04/2025
+## DATE:
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
 
@@ -23,8 +23,8 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: Jayamani
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 //#include<stdio.h>
 //#include<stdlib.h>
