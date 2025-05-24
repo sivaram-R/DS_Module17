@@ -1,5 +1,5 @@
 # 5C)Depth First Graph
-## DATE:26/04/2025
+## DATE:
 ## AIM:
 To compose the code for the function createNode to traverse the graph below in the depth first fashion.
 
@@ -18,8 +18,8 @@ To compose the code for the function createNode to traverse the graph below in t
 ```
 /*
 Program to traverse the graph below in the depth first fashion
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 
 /*#include<stdio.h> #include <stdlib.h>
